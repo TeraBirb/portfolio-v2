@@ -10,13 +10,13 @@ const Intro = () => {
             </p>
             <p className="text-sm max-w-xl mb-6 font-medium">
                 Welcome to my website portfolio! I'm Isaiah, a fresh software
-                engineering graduate with a strong background in building dynamic
-                and responsive web applications. My journey in the ever-evolving
-                world of web development has been shaped by a love for creating
-                seamless user experiences and a knack for solving complex
-                problems. I'm excited to continue growing as a developer and
-                contribute to innovative projects that push the boundaries of
-                technology. Feel free to connect with me and explore my work!
+                engineering graduate with a strong background in building
+                dynamic and responsive web applications. My journey in the
+                ever-evolving world of web development has been shaped by a love
+                for creating seamless user experiences and a knack for solving
+                complex problems. I'm excited to continue growing as a developer
+                and contribute to innovative projects. Feel free to connect with
+                me and explore my work!
             </p>
         </div>
     );
