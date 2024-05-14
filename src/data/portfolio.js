@@ -10,7 +10,7 @@ export default [
         title: "Rental Listing Scraper",
         imgUrl: "/assets/hasta.png",
         stack: ["MERN Stack", "US Real Estate API"],
-        link: "https://www.google.com",
+        link: "https://github.com/TeraBirb/hasta-mern",
         host: "https://hasta-mern.web.app/"
     },
     {
