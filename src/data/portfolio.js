@@ -4,7 +4,7 @@ export default [
         imgUrl: "/assets/song-guesser.png",
         stack: ["React", "Spotify API"],
         link: "https://github.com/TeraBirb/song-guesser",
-        host: ""
+        host: "https://song-guesser-thingy.web.app/"
     },
     {
         title: "Rental Listing Scraper",
@@ -18,7 +18,7 @@ export default [
         imgUrl: "/assets/world-map.png",
         stack: ["Angular", "World Bank API"],
         link: "https://github.com/TeraBirb/world-map",
-        host: ""
+        host: "https://world-map-thingy.web.app/"
     },
     {
         title: "Breakout Clone",

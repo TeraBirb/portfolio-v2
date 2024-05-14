@@ -16,7 +16,7 @@ export default [
     {
         year: "2023",
         title: "Associate's Degree in Computer Information Systems",
-        duration: "Laney College 2021 - 2023",
+        duration: "Berkeley City College, Laney College 2021 - 2023",
         details:
             "At my local community college, I completed theoretical and practical courses on Object-Oriented Programming, Mathematics, Graphical User Interface Programming, Multithreading, Computer Networking, Data Structures & Algorithms, and Microcomputer Assembly Language. I graduated in May 2023 with highest honors and earned a Certificate of Achievement in Java Programming.",
     },
