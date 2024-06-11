@@ -17,7 +17,7 @@ export default [
         title: "Trip Planner",
         imgUrl: "/assets/trip-planner.png",
         stack: ["Java", "Room", "Android Studio"],
-        link: "https://github.com/TeraBirb/trip-planner.png",
+        link: "https://github.com/TeraBirb/trip-planner",
         host: ""
     },
     {
