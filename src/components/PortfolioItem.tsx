@@ -34,7 +34,21 @@ const hostIcon = (
     </svg>
 );
 
-const PortfolioItem = ({ title, imgUrl, stack, link, host }) => {
+type PortfolioItemProps = {
+    title: string;
+    imgUrl: string;
+    stack: string[];
+    link: string;
+    host?: string;
+};
+
+const PortfolioItem = ({
+    title,
+    imgUrl,
+    stack,
+    link,
+    host,
+}: PortfolioItemProps) => {
     return (
         <div className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden">
             <img

@@ -12,7 +12,6 @@ const Portfolio = () => {
                         title = {project.title}
                         imgUrl = {project.imgUrl}
                         stack = {project.stack}
-                        link = {project.link}
                         host = {project.host}
                     />
                 ))}
